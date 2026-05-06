@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Natn85 
-- 🏫 Computer science (first year)
-- 👀 I’m interested in c++
-- 🌱 I’m currently learning c & c++
+- 🏫 Computer science (second year)
+- 👀 I’m interested in Angular
+- 🌱 I’m currently learning java, react, nextjs
 - 📫 How to reach me dnatnael928@gmail.com
 
 <!---
